@@ -1,0 +1,5 @@
+[sensu]
+name=sensu
+baseurl=http://repositories.sensuapp.org/yum/$basearch/
+enabled=1
+gpgcheck=0
